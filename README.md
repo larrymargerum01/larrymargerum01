@@ -15,7 +15,7 @@
   <a href="mailto:larrymargerum1950@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://fabianimv.github.io/portfolio">
+  <a href="https://larry-margerum-portfolio-8c2b42.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open_to_Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white"/>
