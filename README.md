@@ -15,7 +15,7 @@
   <a href="mailto:larrymargerum1950@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://fabianimv.github.io/portfolio">
+  <a href="https://larry-margerum-portfolio-8c2b42.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open_to_Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white"/>
@@ -33,18 +33,17 @@
 
 ```yaml
 name: Larry Margerum
-role: Full Stack AI Engineer
-location: Warsaw, Poland
+role: Full Stack & AI Engineer
+location: Hel, Poland
 experience: 5+ years in Full Stack & AI
 focus:
   - AI Engineering & LLM Applications
   - Full-Stack Application Development
   - Machine Learning & Data Solutions
   - Cloud, DevOps & Secure Deployment
-education: Computer Science @ AGH University of Krakow
+education: Computer Science @ Warsaw University of Technology
 languages:
-  - Polish (native)
-  - English (professional)
+  - English (advanced)
 currently:
   - 🔭 Building Full Stack AI Systems
   - 💬 Ask me about: LLM, Machine Learning, Full Stack Development
@@ -54,7 +53,7 @@ currently:
 
 ## 🏆 Trophies
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=larrymargerum01&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10"/>
 </td>
 </tr>
 </table>
@@ -171,7 +170,7 @@ currently:
 
 <div align="center">
   <h2>💬 Let's connect and build observable systems together!</h2>
-  <a href="mailto:larrymargerum01@gmail.com">
+  <a href="mailto:larrymargerum1950@gmail.com">
     <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
