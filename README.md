@@ -22,6 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
 </div>
 
+[![Larry Margerum profile views](https://u8views.com/api/v1/github/profiles/301445167/views/day-week-month-total-count.svg)](https://u8views.com/github/larrymargerum01)
+
 <br/>
 
 <!-- ABOUT ME AND TROPHIES SIDE BY SIDE -->
@@ -159,8 +161,6 @@ currently:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
   </picture>
 </div>
-
-[![Larry Margerum profile views](https://u8views.com/api/v1/github/profiles/301445167/views/day-week-month-total-count.svg)](https://u8views.com/github/larrymargerum01)
 
 <br/>
 
