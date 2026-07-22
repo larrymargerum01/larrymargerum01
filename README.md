@@ -22,7 +22,9 @@
   <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
 </div>
 
-[![Larry Margerum profile views](https://u8views.com/api/v1/github/profiles/301445167/views/day-week-month-total-count.svg)](https://u8views.com/github/larrymargerum01)
+<div align="center">
+  [![Larry Margerum profile views](https://u8views.com/api/v1/github/profiles/301445167/views/day-week-month-total-count.svg)](https://u8views.com/github/larrymargerum01)
+</div>
 
 <br/>
 
