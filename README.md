@@ -29,10 +29,6 @@
 <br/>
 
 <!-- ABOUT ME AND TROPHIES SIDE BY SIDE -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ## 👨‍💻 About Me
 
 ```yaml
@@ -52,15 +48,8 @@ currently:
   - 🔭 Building Full Stack AI Systems
   - 💬 Ask me about: LLM, Machine Learning, Full Stack Development
 ```
-</td>
-<td width="45%" valign="top" align="center">
 
-## 🏆 Trophies
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=larrymargerum01&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10"/>
-</td>
-</tr>
-</table>
+<br>
 
 <!-- KEY PROJECTS -->
 ## 🏗️ Key Projects
