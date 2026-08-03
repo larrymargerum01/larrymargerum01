@@ -45,7 +45,7 @@ education: Computer Science @ Warsaw University of Technology
 languages:
   - English (advanced)
 currently:
-  - 🔭 Building Full Stack AI Systems
+  - 🔭 Building an AI GTM agent prototype using CockroachDB, pgvector, and LLM workflows.
   - 💬 Ask me about: LLM, Machine Learning, Full Stack Development
 ```
 
