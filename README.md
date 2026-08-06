@@ -9,13 +9,13 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="https://linkedin.com/in/larrymargerum01">
+  <!-- <a href="https://linkedin.com/in/larrymargerum01"> -->
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <!-- </a> -->
   <a href="mailto:larrymargerum1950@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://larry-margerum-portfolio-8c2b42.netlify.app/">
+  <a href="https://larrymargerum-portfolio.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open_to_Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white"/>
