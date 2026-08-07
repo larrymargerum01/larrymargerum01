@@ -96,40 +96,6 @@ currently:
 </tr>
 </table>
 
-## ⚡ Tech Stack & Certifications
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>🛠️ Tech Stack</h3>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,angular,nodejs,express,django,mongodb,mysql,postgresql,fastapi,graphql,docker,git,bash&theme=dark&perline=4" />
-<br/><br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Langgraph-326CE5?style=flat-square&logo=langgraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Survivor AI-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Resume Analyzer-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/>
-  
-</p>
-</td>
-<td width="50%" align="center">
-<h3>🏅 Certifications</h3>
-<br/>
-<!-- <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Scrum_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenTofu-3D65C4?style=for-the-badge&logo=opentofu&logoColor=white"/> -->
-</td>
-</tr>
-</table>
-
 ## 📈 Analytics & Activity
 
 <div align="center">
