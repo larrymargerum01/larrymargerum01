@@ -100,7 +100,7 @@ currently:
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=larrymargerum01)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=larrymargerum01&theme=github-dark-blue)](https://git.io/streak-stats)
   
 </div>
 
