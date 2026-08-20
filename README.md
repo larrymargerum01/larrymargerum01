@@ -112,6 +112,8 @@ currently:
   </a>
 </div>
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/larrymargerum01)
+
 <br/>
 
 <div align="center">
