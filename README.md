@@ -106,6 +106,12 @@ currently:
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larrymargerum01/larrymargerum01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larrymargerum01/larrymargerum01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larrymargerum01/larrymargerum01/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
