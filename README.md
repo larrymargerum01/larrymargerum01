@@ -100,14 +100,14 @@ currently:
 
 <div align="center">
   <br>
-  <a href="https://github.com/kevinjosh10">
+  <a href="https://github.com/larrymargerum01">
     <img src="assets/streak.svg?v=2" width="60%" alt="GitHub Streak Stats" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <a href="https://github.com/kevinjosh10">
+  <a href="https://github.com/larrymargerum01">
     <img src="assets/activity.svg?v=3" width="98%" alt="Contribution Activity Graph" />
   </a>
 </div>
