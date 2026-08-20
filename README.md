@@ -98,9 +98,11 @@ currently:
 
 ## 📈 Analytics & Activity
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=larrymargerum01&theme=tokyonight)](https://git.io/streak-stats)
+
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=larrymargerum01)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=larrymargerum01&theme=tokyonight)](https://git.io/streak-stats)
   
 </div>
 
