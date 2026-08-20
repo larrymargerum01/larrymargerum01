@@ -99,7 +99,9 @@ currently:
 ## 📈 Analytics & Activity
 
 <div align="center">
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=larrymargerum01)](https://git.io/streak-stats)
+  
 </div>
 
 <br/>
