@@ -106,12 +106,6 @@ currently:
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/demo/preview.php?user=larrymargerum01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
