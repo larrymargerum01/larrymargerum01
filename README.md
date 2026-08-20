@@ -99,8 +99,17 @@ currently:
 ## 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larrymargerum01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="195" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymargerum01&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Top Languages"/>
+  <br>
+  <a href="https://github.com/kevinjosh10">
+    <img src="assets/streak.svg?v=2" width="60%" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/kevinjosh10">
+    <img src="assets/activity.svg?v=3" width="98%" alt="Contribution Activity Graph" />
+  </a>
 </div>
 
 <br/>
