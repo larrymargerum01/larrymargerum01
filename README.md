@@ -98,11 +98,9 @@ currently:
 
 ## 📈 Analytics & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=larrymargerum01)](https://git.io/streak-stats)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/larrymargerum01)
-
-![GitHub Snake](https://raw.githubusercontent.com/larrymargerum01/larrymargerum01/output/github-contribution-grid-snake.svg)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=larrymargerum01)](https://git.io/streak-stats)
+</div>
 
 <br/>
 
